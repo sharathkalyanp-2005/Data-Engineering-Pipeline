@@ -1,0 +1,31 @@
+# Data analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# PostgreSQL connection
+psycopg2-binary>=2.9.0
+
+# SQLAlchemy for easier database interaction
+sqlalchemy>=2.0.0
+
+# Optional: Data cleaning / utils
+faker>=18.0.0  # If you use fake data generation
+
+#jaz file
+postgre-42.7.7.jaz
+
+#spark
+version:3.5.6
+
+#jdk
+version-11
+
+hadoop
+version>=3
