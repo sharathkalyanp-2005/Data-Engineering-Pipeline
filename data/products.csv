@@ -1,0 +1,59 @@
+product_id,name,category,price
+1,iPhone 14,Electronics,803.38
+2,Samsung Galaxy S23,Electronics,619.8
+3,MacBook Pro 14,Electronics,603.1
+4,Sony WH-1000XM5 Headphones,Electronics,1074.88
+5,Apple Watch Series 9,Wearables,675.49
+6,Fitbit Charge 5,Wearables,1199.03
+7,Dell XPS 13 Laptop,Electronics,247.93
+8,iPad Air,Tablets,1082.16
+9,Bose QuietComfort Earbuds,Audio,836.18
+10,Samsung Galaxy Buds,Audio,64.26
+11,Canon EOS Rebel Camera,Photography,889.77
+12,GoPro HERO10,Photography,664.6
+13,Nike Air Max Shoes,Footwear,385.79
+14,Puma Running Shoes,Footwear,1016.86
+15,Levi's 501 Jeans,Apparel,90.91
+16,Adidas Hoodie,Apparel,753.39
+17,Zara T-Shirt,Apparel,75.94
+18,H&M Casual Dress,Apparel,693.12
+19,Gucci Leather Belt,Accessories,1021.07
+20,Under Armour Shorts,Sportswear,307.06
+21,Harry Potter Book Set,Books,835.26
+22,The Lord of the Rings Trilogy,Books,865.71
+23,Atomic Habits,Books,477.71
+24,Rich Dad Poor Dad,Books,614.02
+25,Python Crash Course,Books,823.9
+26,Clean Code,Books,1184.6
+27,Game of Thrones Box Set,Books,959.82
+28,The Lean Startup,Books,737.23
+29,To Kill a Mockingbird,Books,384.55
+30,1984,Books,1091.08
+31,Ikea Dining Table,Furniture,1101.04
+32,Sealy Memory Foam Mattress,Furniture,677.45
+33,Ikea Chair Set,Furniture,375.27
+34,Philips Air Fryer,Kitchen Appliances,564.48
+35,NutriBullet Blender,Kitchen Appliances,716.51
+36,Instant Pot Cooker,Kitchen Appliances,867.55
+37,Hamilton Beach Toaster,Kitchen Appliances,432.88
+38,Keurig Coffee Maker,Kitchen Appliances,587.21
+39,Philips LED Desk Lamp,Lighting,744.53
+40,Dyson V15 Vacuum Cleaner,Home Appliances,867.39
+41,Wilson Tennis Racket,Sports Equipment,899.44
+42,Adidas Football,Sports Equipment,698.74
+43,Spalding Basketball,Sports Equipment,210.58
+44,Yonex Badminton Racket,Sports Equipment,123.55
+45,Nike Yoga Mat,Fitness,700.84
+46,Reebok Jump Rope,Fitness,336.83
+47,Speedo Swimming Goggles,Sports Accessories,884.03
+48,Titleist Golf Balls,Sports Equipment,687.45
+49,LEGO Star Wars Set,Toys & Games,289.45
+50,Barbie Dreamhouse,Dolls,528.9
+51,Hot Wheels Track Set,Toys & Games,609.13
+52,Monopoly Board Game,Board Games,937.94
+53,Rubik's Cube,Puzzles,705.89
+54,Nerf Elite Blaster,Outdoor Toys,1097.09
+55,Play-Doh Fun Pack,Arts & Crafts,866.06
+56,Fisher-Price Baby Gym,Baby Toys,366.45
+57,Disney Princess Doll,Dolls,256.46
+58,LEGO Technic Car,Toys & Games,22.32
