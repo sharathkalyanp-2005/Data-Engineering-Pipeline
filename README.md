@@ -13,7 +13,7 @@ The project is implemented using Python (Jupyter Notebook) and SQL queries.
 
 ## Folder Structure
 The project is organized as follows:
-
+```bash
 MyDataProject/
 ├─ notebooks/ # Jupyter notebooks with code and analysis
 │ └─ my_analysis.ipynb
@@ -25,7 +25,7 @@ MyDataProject/
 ├─ README.md # This file
 ├─ requirements.txt # List of Python packages (optional)
 
-
+```
 ---
 
 ## Approach (Step by Step)
